@@ -8,5 +8,5 @@
 ### `> yarn start`
 
 
-![image](./arin-hooks-context.png.png)
+![image](./arin-hooks-context.png)
 
